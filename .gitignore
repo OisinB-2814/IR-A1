@@ -1,2 +1,4 @@
 .Ds_Store
+*/.Ds_Store/*
 .ipynb_checkpoints
+*/.ipynb_checkpoints/*
